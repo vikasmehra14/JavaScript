@@ -1,2 +1,2 @@
 # JavaScript
-Exploring javascript
+Exploring JavaScript. Building project. Getting Skilled
